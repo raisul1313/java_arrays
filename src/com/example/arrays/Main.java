@@ -19,6 +19,9 @@ public class Main {
         int[] number1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         for (int i = 0; i < number1.length; i++) {    //if we don't know te size of array
             System.out.println(number1[i]);
+
+
+
         }
     }
 }
